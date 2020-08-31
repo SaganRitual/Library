@@ -1,6 +1,6 @@
 <manifest>
-<remote name="origin" fetch="https://github.com/" />
-<default revision="refs/heads/main" remote="origin" sync-j="4"/>
-<project name="SaganRitual/Tools" remote="origin" path="Tools"/>
-<project name="SaganRitual/Charts" remote="origin" path="Charts"/>
+<remote name="origin" fetch="https://github.com/SaganRitual/" />
+<default revision="refs/heads/master" remote="origin" />
+<project name="Tools" />
+<project name="Charts" />
 </manifest>
